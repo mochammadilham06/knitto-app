@@ -22,3 +22,8 @@ BASEKEY="your_api_key"
     yarn web/android/ios
    ```
 
+4. login
+```
+username = admin
+password = password
+```
